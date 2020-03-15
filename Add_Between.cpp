@@ -9,3 +9,4 @@ using namespace std;
 // Post: returns v[start] + v[start+1] + ... + v[end]
 int Add_Between(const vector<int>& v, int start, int end)
 {
+  int sum = 0;
