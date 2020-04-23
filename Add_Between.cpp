@@ -36,3 +36,5 @@ int main()
   int len = 0;
   cout << "What is the size of your vector?\n";
   cin >> len;
+  for(int i = 0; i < len; i++)
+  {
