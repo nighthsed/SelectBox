@@ -43,3 +43,4 @@ int main()
     cin >> x;
     v.push_back(x);
   }
+  int start = 0;
