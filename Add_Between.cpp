@@ -44,3 +44,4 @@ int main()
     v.push_back(x);
   }
   int start = 0;
+  cout << "Enter starting position (0-" << len-1 << "): ";
