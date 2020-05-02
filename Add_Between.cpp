@@ -47,3 +47,4 @@ int main()
   cout << "Enter starting position (0-" << len-1 << "): ";
   cin >> start;
   int end = 9;
+  cout << "Enter ending position (0-" << len-1 << "): ";
