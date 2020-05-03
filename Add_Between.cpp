@@ -48,3 +48,4 @@ int main()
   cin >> start;
   int end = 9;
   cout << "Enter ending position (0-" << len-1 << "): ";
+  cin >> end;
