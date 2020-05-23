@@ -11,3 +11,4 @@ using namespace std;
 int Count_Less_Than(const vector<int>& v, int key, int start)
 {
   int count = 0;
+  for(int i = start; i<v.size(); i++)
