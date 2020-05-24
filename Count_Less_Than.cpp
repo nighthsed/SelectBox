@@ -17,3 +17,4 @@ int Count_Less_Than(const vector<int>& v, int key, int start)
       count++;
   }
   return count;
+}
