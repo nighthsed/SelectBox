@@ -25,3 +25,4 @@ int Recur_Count_Less_Than(const vector<int>& v, int key, int start)
   if(start >= v.size())
     return 0;
   if(v[start] < key)
+    return 1 + Recur_Count_Less_Than(v, key, start+1);
