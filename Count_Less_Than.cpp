@@ -31,3 +31,5 @@ int Recur_Count_Less_Than(const vector<int>& v, int key, int start)
 }
 
 int main()
+{
+  vector<int> v;
