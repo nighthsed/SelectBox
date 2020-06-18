@@ -38,3 +38,4 @@ int main()
   cin >> len;
   for(int i = 0; i < len; i++)
   {
+    int x;
