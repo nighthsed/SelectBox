@@ -39,3 +39,4 @@ int main()
   for(int i = 0; i < len; i++)
   {
     int x;
+    cout << "Enter integer at position " << i << ": ";
