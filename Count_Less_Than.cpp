@@ -41,3 +41,5 @@ int main()
     int x;
     cout << "Enter integer at position " << i << ": ";
     cin >> x;
+    v.push_back(x);
+  }
