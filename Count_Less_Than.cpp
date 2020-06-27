@@ -46,3 +46,5 @@ int main()
   int start = 0;
   cout << "Enter starting position (0-" << len-1 << "): ";
   cin >> start;
+  int key;
+  cout << "Enter a number: ";
