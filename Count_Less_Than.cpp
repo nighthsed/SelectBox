@@ -49,3 +49,4 @@ int main()
   int key;
   cout << "Enter a number: ";
   cin >> key;
+  cout << "There are " << Count_Less_Than(v, key, start) << " elements in your vector from position " << start << " to position " << len-1 << " that are less than " << key << ". Using recursion, there are " << Recur_Count_Less_Than(v, key, start) << ".\n";
