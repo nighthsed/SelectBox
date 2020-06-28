@@ -48,3 +48,4 @@ int main()
   cin >> start;
   int key;
   cout << "Enter a number: ";
+  cin >> key;
