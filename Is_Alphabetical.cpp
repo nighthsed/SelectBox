@@ -9,3 +9,4 @@ using namespace std;
 // Post: returns true if
 //  s[start] <= s[start+1] <= ... <= s[s.size()-1]
 //  returns false otherwise.
+bool Is_Alphabetical(const string& s, int start)
