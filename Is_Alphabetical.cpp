@@ -14,3 +14,4 @@ bool Is_Alphabetical(const string& s, int start)
   for(int i = start; i < s.length()-1; i++)
   {
     if(s[i] > s[i+1])
+      return false;
