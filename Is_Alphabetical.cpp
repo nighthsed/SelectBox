@@ -16,3 +16,4 @@ bool Is_Alphabetical(const string& s, int start)
     if(s[i] > s[i+1])
       return false;
   }
+  return true;
