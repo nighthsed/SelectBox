@@ -11,3 +11,4 @@ using namespace std;
 //  returns false otherwise.
 bool Is_Alphabetical(const string& s, int start)
 {
+  for(int i = start; i < s.length()-1; i++)
