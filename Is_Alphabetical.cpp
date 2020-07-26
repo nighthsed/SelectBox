@@ -23,3 +23,6 @@ bool Is_Alphabetical(const string& s, int start)
 bool Recur_Is_Alphabetical(const string& s, int start)
 {
   if(start == s.length()-1)
+    return true;
+  if(s[start] > s[start+1])
+    return false;
