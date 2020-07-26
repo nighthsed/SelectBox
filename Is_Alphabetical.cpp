@@ -18,3 +18,5 @@ bool Is_Alphabetical(const string& s, int start)
   }
   return true;
 }
+
+//Recursive solution
