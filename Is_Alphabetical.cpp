@@ -27,3 +27,4 @@ bool Recur_Is_Alphabetical(const string& s, int start)
   if(s[start] > s[start+1])
     return false;
   return Recur_Is_Alphabetical(s, start+1);
+}
