@@ -31,3 +31,4 @@ bool Recur_Is_Alphabetical(const string& s, int start)
 
 int main()
 {
+  string word;
