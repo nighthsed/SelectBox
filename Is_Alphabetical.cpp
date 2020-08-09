@@ -33,3 +33,4 @@ int main()
 {
   string word;
   cout << "Enter a word (all upper or lowercase): ";
+  cin >> word;
