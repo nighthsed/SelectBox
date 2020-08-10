@@ -36,3 +36,4 @@ int main()
   cin >> word;
   int start;
   cout << "Enter a starting position in " << word << ": ";
+  cin >> start;
