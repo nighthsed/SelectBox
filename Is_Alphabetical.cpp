@@ -35,3 +35,4 @@ int main()
   cout << "Enter a word (all upper or lowercase): ";
   cin >> word;
   int start;
+  cout << "Enter a starting position in " << word << ": ";
