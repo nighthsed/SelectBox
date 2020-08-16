@@ -37,3 +37,4 @@ int main()
   int start;
   cout << "Enter a starting position in " << word << ": ";
   cin >> start;
+  if(Is_Alphabetical(word, start))
