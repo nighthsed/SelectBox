@@ -38,3 +38,4 @@ int main()
   cout << "Enter a starting position in " << word << ": ";
   cin >> start;
   if(Is_Alphabetical(word, start))
+    cout << word << " is alphabetical starting at position " << start << " using iteration and ";
