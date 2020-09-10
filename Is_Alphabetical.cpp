@@ -40,3 +40,5 @@ int main()
   if(Is_Alphabetical(word, start))
     cout << word << " is alphabetical starting at position " << start << " using iteration and ";
   else
+    cout << word << " is not alphabetical starting at position " << start << " using iteration and ";
+  if(Recur_Is_Alphabetical(word, start))
