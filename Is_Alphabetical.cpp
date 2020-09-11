@@ -44,3 +44,4 @@ int main()
   if(Recur_Is_Alphabetical(word, start))
     cout << "is alphabetical using recursion.\n";
   else
+    cout << "is not alphabetical using recursion.\n";
