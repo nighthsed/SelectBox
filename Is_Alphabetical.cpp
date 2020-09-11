@@ -42,3 +42,5 @@ int main()
   else
     cout << word << " is not alphabetical starting at position " << start << " using iteration and ";
   if(Recur_Is_Alphabetical(word, start))
+    cout << "is alphabetical using recursion.\n";
+  else
