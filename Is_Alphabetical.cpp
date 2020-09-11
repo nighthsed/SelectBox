@@ -45,3 +45,4 @@ int main()
     cout << "is alphabetical using recursion.\n";
   else
     cout << "is not alphabetical using recursion.\n";
+  return 0;
