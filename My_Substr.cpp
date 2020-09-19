@@ -4,3 +4,4 @@
 using namespace std;
 
 //Iterative solution
+// Pre: "s" is any string
