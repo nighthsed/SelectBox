@@ -9,3 +9,4 @@ using namespace std;
 // Post: returns a string consisting of s[start]..s[end] (inclusive)
 string My_Substr(const string& s, int start, int end)
 {
+  string substr = "";
