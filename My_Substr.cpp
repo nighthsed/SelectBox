@@ -10,3 +10,4 @@ using namespace std;
 string My_Substr(const string& s, int start, int end)
 {
   string substr = "";
+  for(int i = start; i <= end; i++)
