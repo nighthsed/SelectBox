@@ -13,3 +13,4 @@ string My_Substr(const string& s, int start, int end)
   for(int i = start; i <= end; i++)
   {
     substr += s[i];
+  }
