@@ -14,3 +14,4 @@ string My_Substr(const string& s, int start, int end)
   {
     substr += s[i];
   }
+  return substr;
