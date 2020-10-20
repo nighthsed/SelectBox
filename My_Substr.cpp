@@ -20,3 +20,4 @@ string My_Substr(const string& s, int start, int end)
 //Recursive solution
 string Recur_My_Substr(const string& s, int start, int end)
 {
+  if(start==end)
