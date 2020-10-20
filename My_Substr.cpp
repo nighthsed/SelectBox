@@ -16,3 +16,6 @@ string My_Substr(const string& s, int start, int end)
   }
   return substr;
 }
+
+//Recursive solution
+string Recur_My_Substr(const string& s, int start, int end)
