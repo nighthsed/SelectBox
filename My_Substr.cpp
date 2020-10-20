@@ -26,3 +26,4 @@ string Recur_My_Substr(const string& s, int start, int end)
     a = s[end];
     return a;
   }
+  return s[start] + Recur_My_Substr(s, start+1, end);
