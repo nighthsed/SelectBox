@@ -31,3 +31,5 @@ string Recur_My_Substr(const string& s, int start, int end)
 
 int main()
 {
+  string word;
+  cout << "Enter a word: ";
