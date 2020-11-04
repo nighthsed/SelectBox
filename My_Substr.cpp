@@ -36,3 +36,4 @@ int main()
   cin >> word;
   int start;
   cout << "Enter the starting position of your substring: ";
+  cin >> start;
