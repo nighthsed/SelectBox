@@ -40,3 +40,5 @@ int main()
   int end;
   cout << "Enter the ending position of your substring: ";
   cin >> end;
+  cout << "Your substring is " << My_Substr(word, start, end) << " using iteration and " << Recur_My_Substr(word, start, end) << " using recursion.\n";
+}
