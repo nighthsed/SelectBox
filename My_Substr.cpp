@@ -37,3 +37,5 @@ int main()
   int start;
   cout << "Enter the starting position of your substring: ";
   cin >> start;
+  int end;
+  cout << "Enter the ending position of your substring: ";
