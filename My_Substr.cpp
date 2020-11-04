@@ -35,3 +35,4 @@ int main()
   cout << "Enter a word: ";
   cin >> word;
   int start;
+  cout << "Enter the starting position of your substring: ";
