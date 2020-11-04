@@ -39,3 +39,4 @@ int main()
   cin >> start;
   int end;
   cout << "Enter the ending position of your substring: ";
+  cin >> end;
