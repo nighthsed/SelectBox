@@ -1,3 +1,3 @@
 #include <iostream>
 #include <vector>
-using namespace
+using namespace s
