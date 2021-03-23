@@ -2,4 +2,4 @@
 #include <vector>
 using namespace std;
 
-//Iterative Solu
+//Iterative Solut
