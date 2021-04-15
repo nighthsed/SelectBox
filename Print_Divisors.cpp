@@ -3,4 +3,4 @@
 using namespace std;
 
 //Iterative Solution
-// Pre: n 
+// Pre: n is a
