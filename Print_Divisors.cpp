@@ -3,4 +3,4 @@
 using namespace std;
 
 //Iterative Solution
-// Pre: n is a positive in
+// Pre: n is a positive int
