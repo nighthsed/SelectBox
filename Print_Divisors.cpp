@@ -6,4 +6,4 @@ using namespace std;
 // Pre: n is a positive integer
 //  "max_factor" is a positive integer <= n
 // Post: outputs to the screen all numbers <= max_factor that divide evenly into n.
-void Print_Divisors(in
+void Print_Divisors(int 
