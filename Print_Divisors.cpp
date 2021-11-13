@@ -7,3 +7,4 @@ using namespace std;
 //  "max_factor" is a positive integer <= n
 // Post: outputs to the screen all numbers <= max_factor that divide evenly into n.
 void Print_Divisors(int n, int max_factor)
+{
