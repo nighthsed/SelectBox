@@ -8,4 +8,4 @@ using namespace std;
 // Post: outputs to the screen all numbers <= max_factor that divide evenly into n.
 void Print_Divisors(int n, int max_factor)
 {
-  for(int i = ma
+  for(int i = max_
