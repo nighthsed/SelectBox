@@ -10,4 +10,4 @@ void Print_Divisors(int n, int max_factor)
 {
   for(int i = max_factor; i > 0; i--)
   {
-    if(n%i==
+    if(n%i==0
