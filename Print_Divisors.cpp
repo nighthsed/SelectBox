@@ -12,3 +12,4 @@ void Print_Divisors(int n, int max_factor)
   {
     if(n%i==0)
       cout << " " << i << " ";
+ 
