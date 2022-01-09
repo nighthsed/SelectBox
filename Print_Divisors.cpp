@@ -14,3 +14,4 @@ void Print_Divisors(int n, int max_factor)
       cout << " " << i << " ";
   }
 }
+
