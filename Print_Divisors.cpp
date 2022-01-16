@@ -16,4 +16,4 @@ void Print_Divisors(int n, int max_factor)
 }
 
 //Recursive Solution
-voi
+void
