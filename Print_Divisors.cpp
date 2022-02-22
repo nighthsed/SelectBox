@@ -21,4 +21,4 @@ void Recur_Print_Divisors(int n, int max_factor)
   if(max_factor > 0)
   {
     if(n%max_factor == 0)
-      cout << " " << max_
+      cout << " " << max_f
