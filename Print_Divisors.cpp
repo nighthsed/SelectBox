@@ -22,4 +22,4 @@ void Recur_Print_Divisors(int n, int max_factor)
   {
     if(n%max_factor == 0)
       cout << " " << max_factor << " ";
-    Recur_Print_Divis
+    Recur_Print_Diviso
