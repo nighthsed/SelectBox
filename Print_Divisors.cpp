@@ -28,4 +28,4 @@ void Recur_Print_Divisors(int n, int max_factor)
 
 int main()
 {
-  int n
+  int num
