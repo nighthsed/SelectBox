@@ -29,4 +29,4 @@ void Recur_Print_Divisors(int n, int max_factor)
 int main()
 {
   int num, factor;
-  cout << "Enter a number: "
+  cout << "Enter a number: ";
