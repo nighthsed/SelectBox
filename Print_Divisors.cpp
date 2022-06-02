@@ -31,4 +31,4 @@ int main()
   int num, factor;
   cout << "Enter a number: ";
   cin >> num;
-  cout << "Enter a numb
+  cout << "Enter a numbe
