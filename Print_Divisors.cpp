@@ -31,4 +31,4 @@ int main()
   int num, factor;
   cout << "Enter a number: ";
   cin >> num;
-  cout << "Enter a number less than or equal to
+  cout << "Enter a number less than or equal to 
