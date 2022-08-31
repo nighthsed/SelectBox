@@ -33,4 +33,4 @@ int main()
   cin >> num;
   cout << "Enter a number less than or equal to " << num << ": ";
   cin >> factor;
-  cout << "The divisors of " << nu
+  cout << "The divisors of " << num
