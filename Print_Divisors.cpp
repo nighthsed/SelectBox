@@ -34,4 +34,4 @@ int main()
   cout << "Enter a number less than or equal to " << num << ": ";
   cin >> factor;
   cout << "The divisors of " << num << " <= " << factor << " are\n";
-  Print_Divisors(num,
+  Print_Divisors(num, f
