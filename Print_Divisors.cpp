@@ -37,4 +37,4 @@ int main()
   Print_Divisors(num, factor);
   cout << "\nusing iteration and\n";
   Recur_Print_Divisors(num, factor);
-  cout << "\nusing recursion.\n
+  cout << "\nusing recursion.\n";
